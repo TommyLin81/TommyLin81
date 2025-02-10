@@ -1,13 +1,12 @@
 <h1 align="left">
-  Hi 👋, 我是 Tommy～
+  Hi 👋, I'm Tommy~
 </h1>
 <p align="left">
   <img src="assets/tommy-and-cocoa.jpeg" width="400" >
 </p>
 
 <p align="left">
-  是個後端開發者，對 golang 情有獨鍾，略懂 Infrastructure，現在正在積極學習 Machine Learning 的技術 <br>
-  這麼好用的技術，就是會讓人情不自禁的想去深入了解他！
+  Former backend engineer at KKBOX with a strong passion for Golang and some knowledge of infrastructure. Currently actively learning machine learning technologies.
 </p>
 
 ---
